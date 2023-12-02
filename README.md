@@ -5,8 +5,5 @@
 </p>
 
 <p align="left">
-   <img src="https://komarev.com/ghpvc/?username=ZoliKonya&label=Profile%20views&#FFA500&style=flat" alt="ZoliKonya" />
+   <img src="https://komarev.com/ghpvc/?username=ZoliKonya&label=Profile%20views&color=#FFA500&style=flat" alt="ZoliKonya" />
 </p>
-
-
-
