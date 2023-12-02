@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-   <img src="https://github.com/ZoliKonya/ZoliKonya/blob/main/terry.jpg" >
+   <img src="https://github.com/ZoliKonya/ZoliKonya/blob/main/terry.jpg" height="400" width="900">
 </p>
 
 <p align="left">
