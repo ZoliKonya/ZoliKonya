@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-   <img src="(https://unsplash.com/photos/light-bulb-WsEbnsnKbUE)" height="220" width="1010">
+   <img src="https://unsplash.com/photos/light-bulb-WsEbnsnKbUE" height="220" width="1010">
 </p>
 
 <p align="left">
