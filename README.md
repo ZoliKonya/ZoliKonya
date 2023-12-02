@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-   <img src="https://octodex.github.com/images/godotocat.png">
+   <img src="https://octodex.github.com/images/godotocat.png" height="220" width="1010">
 </p>
 
 <p align="left">
