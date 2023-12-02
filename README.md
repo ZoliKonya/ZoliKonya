@@ -4,6 +4,9 @@
    <img src="https://octodex.github.com/images/godotocat.png">
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ZoliKonya&title=Profile%20views&count_private=true&label=Profile%20Views)
+<p align="left">
+   <img src="https://komarev.com/ghpvc/?username=ZoliKonya&label=Profile%20views&color=0e75b6&style=flat" alt="ZoliKonya" />
+</p>
+
 
 
